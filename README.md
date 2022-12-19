@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Olá, eu sou o Bruno Vieira, apenas um aspirante em busca de aprimoramento!🖐 </h2>
+ <h2>Olá, eu sou Bruno, apenas um aspirante em busca de aprimoramento!🖐 </h2>
  <!--você nunca viu esse <h2> aqui, foi um delírio coletivo-->
  
  
